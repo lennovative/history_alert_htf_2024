@@ -1,3 +1,6 @@
 [submodule "history_alert"]
 	path = history_alert
 	url = https://github.com/lennovative/history_alert
+[submodule "history_alert_android"]
+	path = history_alert_android
+	url = https://github.com/lennovative/history_alert_android
