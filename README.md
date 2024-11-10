@@ -4,6 +4,7 @@
 
 This is our submission to the Hack This Fall 2024 hackathon.
 We created an android app that enables users to get daily notifications about historical events from the current day in past years, with quick access to further information and wikipedia links (https://github.com/lennovative/history_alert_android).
+
 The other submodule (https://github.com/lennovative/history_alert) contains the tools we used to extract the information from wikipeda and also a CLI version of our software.
 
 ## The Problem our Project solves
