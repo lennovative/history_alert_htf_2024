@@ -1,3 +1,5 @@
+![](history_alert-logo.png)
+
 # Hack This Fall 2024 Submission: Project HistoryAlert
 
 This is our submission to the Hack This Fall 2024 hackathon.
@@ -11,3 +13,11 @@ Many people are interested in learning about historical events but don’t have 
 By delivering a quick, daily notification highlighting an event from the same date in the past, this app offers a convenient way to learn something new each day with minimal effort.
 Also its fun.
 
+## Some Screenshots
+
+| ![Screenshot 1](history_alert_android/Screenshots/screenshot1.jpg) | ![Screenshot 2](history_alert_android/Screenshots/screenshot6.jpg) | ![Screenshot 3](history_alert_android/Screenshots/screenshot3.jpg) |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+These screenshots are showing the functionality of the android app.
+
+
+![This screenshot shows the CLI version of our program](history_alert/historyalert.png)
