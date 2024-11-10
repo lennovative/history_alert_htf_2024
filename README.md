@@ -18,9 +18,10 @@ Also its fun.
 | ![Screenshot 1](screenshots/screenshot1.jpg) | ![Screenshot 2](screenshots/screenshot6.jpg) | ![Screenshot 3](screenshots/screenshot3.jpg) |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
 
-
 These screenshots are showing the functionality of the android app.
 
 
 
-![This screenshot shows the CLI version of our program](screenshots/screenshot_cli.png)
+![CLI](screenshots/screenshot_cli.png)
+
+This screenshot shows the CLI version of our program.
