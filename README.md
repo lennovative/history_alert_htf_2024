@@ -15,9 +15,12 @@ Also its fun.
 
 ## Some Screenshots
 
-| ![Screenshot 1](history_alert_android/Screenshots/screenshot1.jpg) | ![Screenshot 2](history_alert_android/Screenshots/screenshot6.jpg) | ![Screenshot 3](history_alert_android/Screenshots/screenshot3.jpg) |
+| ![Screenshot 1](screenshots/screenshot1.jpg) | ![Screenshot 2](screenshots/screenshot6.jpg) | ![Screenshot 3](screenshots/screenshot3.jpg) |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
+
+
 These screenshots are showing the functionality of the android app.
 
 
-![This screenshot shows the CLI version of our program](history_alert/historyalert.png)
+
+![This screenshot shows the CLI version of our program](screenshots/screenshot_cli.png)
